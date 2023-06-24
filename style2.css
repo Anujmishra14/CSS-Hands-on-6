@@ -51,7 +51,7 @@
     width: 400px;
     position: absolute;
     top: 355px;
-    left: 34%;
+    left: 400px;
     z-index: 2;
     
 }
@@ -59,12 +59,12 @@
     width: 70px;
     position:absolute;
     top:445px;
-    left: 36.7%;
+    left: 435px;
     z-index: 3;
     animation: wheel 1s linear infinite;
 }
 .wheel2{
-    left: 55%;
+    left:680px;
 }
 @keyframes wheel{
     100%{
@@ -74,8 +74,8 @@
 .flag{
     height: 100px;
     position:absolute;
-    left: 54.5%;
-    top: 53.5%;
+    left: 688px;
+    top: 336px;
     z-index: 4;
   
 }
